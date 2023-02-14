@@ -8,6 +8,7 @@ public class WhileLoop {
 		System.out.println("Print the list of first even numbers 10");
 		while(i<10) {
 			System.out.println(i);
+			System.out.println("a");
 			i++;
 		}
 	}
