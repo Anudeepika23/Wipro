@@ -9,6 +9,8 @@ public class WhileLoop {
 		while(i<10) {
 			System.out.println(i);
 			System.out.println("a");
+			System.out.println("b");
+			
 			i++;
 		}
 	}
