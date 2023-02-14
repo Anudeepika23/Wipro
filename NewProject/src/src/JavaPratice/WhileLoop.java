@@ -13,20 +13,20 @@ public class WhileLoop {
 //	}
 //
 //}
-//		int i=0;
-//		System.out.println("Print the list of first even numbers 10");
-//		while(i<=10) {
-//			System.out.println(i);
-//			i=i+2;
-//		}
-//	}
-//
-//}
-		int arr[]= {2,3,4,5};
 		int i=0;
-		while(i<4) {
-			System.out.println(arr[i]);
-			i++;
+		System.out.println("Print the list of first even numbers 10");
+		while(i<=10) {
+			System.out.println(i);
+			i=i+2;
 		}
 	}
+
 }
+//		int arr[]= {2,3,4,5};
+//		int i=0;
+//		while(i<4) {
+//			System.out.println(arr[i]);
+//			i++;
+//		}
+//	}
+//}
